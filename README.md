@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cheluri Navya Sree</h1>
-<h3 align="center">AI & ML Student | Python Developer | Aspiring Software Engineer</h3>
+<h3 align="center">AI & ML Student | Aspiring Python Developer |  Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chelurinavyasree&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
