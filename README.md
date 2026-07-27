@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Artificial Intelligence, Machine Learning, Data Structures & Algorithms**
 - 💻 Passionate about AI, Web Development, and Python Programming
 - 🚀 Looking for Internship & Placement Opportunities
-- 📫 Reach me at: **YOUR_EMAIL**
+- 📫 Reach me at: **chelurinavyasree@gmail.com**
 
 ---
 
