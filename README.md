@@ -1,55 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Cheluri%20Navya%20Sree&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Engineer%20%7C%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Cheluri%20Navya%20Sree&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Data%20Science&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/cheluri-navyasree-4502a9352">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/chelurinavyasree">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://navya-sree-cheluri-2006.bolt.host/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:chelurinavyasree@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;AI%2FML+Engineer+in+the+making;Turning+ideas+into+clean%2C+working+code;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications;Applying+AI%2FML+to+real-world+problems;Open+to+full-time+opportunities" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## About Me
+## Profile Summary
 
-```yaml
-name: "Cheluri Navya Sree"
-role: "Full Stack Web Developer | AI Engineer | Data Science Enthusiast"
-location: "Madanapalli, Andhra Pradesh, India"
-education: "B.Tech - AI & ML @ Annamacharya Institute of Technology and Sciences (CGPA: 9.01)"
-status: "Fresher — actively seeking opportunities"
-currently_learning: ["Advanced AI/ML", "System Design", "Docker", "AWS", "DevOps"]
-fun_fact: "I debug faster with coffee ☕ (and Stack Overflow)"
-```
+Final-year Artificial Intelligence & Machine Learning undergraduate with practical experience across full-stack web development, cloud infrastructure, and applied AI. Background includes hands-on internship work in AWS/DevOps and Generative AI, along with independently built projects spanning computer vision, algorithm visualization, and web application development. Comfortable working across the stack — from data and model logic to interface design and deployment.
 
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning**, Class of 2027
-- 💻 Skilled in **DSA, Java, Python, HTML/CSS**, with hands-on **AWS & DevOps** internship experience
-- 🧩 Active problem solver on **HackerRank, CodeChef & LeetCode**
-- 🚀 Passionate about building **data-driven products** and impactful real-world projects
-- 📜 Certified in **Python (SimpleLearn)**, **Cloud Computing & DevOps (AWS)**, and **Full Stack Web Development (Pantech.ai)**
+| | |
+|---|---|
+| **Education** | B.Tech, AI & ML — Annamacharya Institute of Technology and Sciences (CGPA 9.01) |
+| **Location** | Madanapalli, Andhra Pradesh, India |
+| **Status** | Fresher — actively seeking full-time opportunities |
+| **Focus Areas** | Full-Stack Development, Applied AI/ML, Cloud & DevOps |
+| **Problem Solving** | HackerRank · CodeChef · LeetCode |
 
 <br/>
 
-## Tech Stack
+## Technical Skills
 
 <div align="center">
 
-**Languages & Core**
+**Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css&theme=dark" />
 
@@ -57,11 +49,11 @@ fun_fact: "I debug faster with coffee ☕ (and Stack Overflow)"
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" />
 
-**Backend & Database**
+**Backend & Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-**Tools & DevOps**
+**Tools & Infrastructure**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,aws&theme=dark" />
 
@@ -69,29 +61,69 @@ fun_fact: "I debug faster with coffee ☕ (and Stack Overflow)"
 
 <br/>
 
-## GitHub Analytics
+## GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chelurinavyasree&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chelurinavyasree&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=chelurinavyasree&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=chelurinavyasree&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelurinavyasree&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" width="48%"/>
 
-</div>
-
-<div align="center">
-
-### Contribution Graph
+### Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chelurinavyasree&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff" width="90%"/>
 
-<!-- Contribution Snake — requires GitHub Actions workflow to generate this asset -->
+<!-- Requires a GitHub Actions workflow to generate this asset -->
 <img src="https://raw.githubusercontent.com/chelurinavyasree/chelurinavyasree/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
+
+<br/>
+
+## Professional Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Cloud Computing (AWS) & DevOps Intern**
+<br/>
+<sub>Jobprep · March 2024 – May 2024</sub>
+
+- Deployed and managed scalable applications using AWS (EC2, S3, Lambda, IAM)
+- Configured CI/CD pipelines with Jenkins and Git to automate build, test, and deployment workflows
+- Used Docker for containerization, ensuring environment consistency across development and production
+- Monitored server performance and optimized cloud resource utilization
+
+</td>
+<td width="50%" valign="top">
+
+**Generative AI Intern**
+<br/>
+<sub>Srivensy Technologies Pvt. Ltd. · in association with APSCHE</sub>
+
+- Completed a Summer Industry Internship in Generative AI, including the Python Programming for AI module
+- Gained applied exposure to Generative AI fundamentals, AI-driven problem solving, and practical implementation of AI concepts
+- Strengthened technical and analytical skills through industry-oriented, mentor-guided learning
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Fellowship Program**
+<br/>
+<sub>AlgoUniversity</sub>
+
+- Strengthened core skills in Data Structures & Algorithms, problem-solving, and technical interview preparation
+- Completed structured coursework and coding challenges as part of a competitive fellowship track
+- Engaged with a peer and mentor community focused on consistent, outcome-driven learning
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 <br/>
 
@@ -101,42 +133,54 @@ fun_fact: "I debug faster with coffee ☕ (and Stack Overflow)"
 <tr>
 <td width="33%" valign="top">
 
-### 🔀 Sorting Visualizer
+**Sorting Visualizer**
 
-Interactive web app that animates sorting algorithms step-by-step, letting users input custom arrays and watch the sort happen in real time.
+Interactive web application that visualizes sorting algorithms step-by-step with real-time animation for custom input arrays.
 
-**Stack:** `HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/chelurinavyasree"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top">
 
-### 🌐 Portfolio Website
+**Portfolio Website**
 
-A dark-themed, glassmorphic personal portfolio with smooth animations, project showcase, blog section, and downloadable resume.
+Dark-themed, glassmorphic personal portfolio featuring project showcase, blog section, and downloadable resume.
 
-**Stack:** `HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/chelurinavyasree"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://navya-sree-cheluri-2006.bolt.host/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://navya-sree-cheluri-2006.bolt.host/"><img src="https://img.shields.io/badge/Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top">
 
-### 🎯 Concentration Detector — AI
+**Concentration Detector (AI)**
 
-Real-time focus detection system that tracks eye and head movement to flag distraction with live alerts.
+Real-time focus detection system using computer vision to track eye and head movement, with live distraction alerts.
 
-**Stack:** `Python` `OpenCV` `MediaPipe` `NumPy`
+`Python` `OpenCV` `MediaPipe` `NumPy`
 
 <a href="https://github.com/chelurinavyasree"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## Certifications
+
+| Certification | Issuing Organization |
+|---|---|
+| Cloud Computing (AWS) & DevOps | Jobprep |
+| Introduction to Python | SimpleLearn |
+| Full Stack Web Development | Pantech.ai |
+| Data Structures & Algorithms (Python) — Online Judge Projects | AlgoUniversity |
+| Generative AI & Python Programming (Capstone) | Srivensy Technologies / APSCHE |
 
 <br/>
 
@@ -144,108 +188,45 @@ Real-time focus detection system that tracks eye and head movement to flag distr
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-0f172a?style=for-the-badge&logo=openai&logoColor=38BDF8)
-![System Design](https://img.shields.io/badge/System_Design-0f172a?style=for-the-badge&logo=architecture&logoColor=38BDF8)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=38BDF8)
-![DevOps](https://img.shields.io/badge/DevOps-0f172a?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-0f172a?style=flat-square&logo=openai&logoColor=38BDF8)
+![System Design](https://img.shields.io/badge/System_Design-0f172a?style=flat-square&logo=architecture&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38BDF8)
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=38BDF8)
+![DevOps](https://img.shields.io/badge/DevOps-0f172a?style=flat-square&logo=githubactions&logoColor=38BDF8)
 
 </div>
 
 <br/>
 
-## Experience
+## Achievements
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud Computing (AWS) & DevOps Intern
-**Jobprep** · Mar 2024 – May 2024
-
-- Managed and deployed scalable applications using AWS (EC2, S3, Lambda, IAM)
-- Configured CI/CD pipelines with Jenkins & Git to automate build, test, and deployment
-- Used Docker for containerization across dev and prod environments
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Generative AI Intern
-**Srivency Technologies**
-<!-- TODO: add duration and 2-3 bullet points on your GenAI work/tools here -->
-- _ my Summer Industry Internship in Generative AI at Srivensy Technologies Pvt. Ltd., conducted in association with the Andhra Pradesh State Council of Higher Education (APSCHE).
-During this internship, I completed the Python Programming for AI module and gained valuable exposure to:
- ✅ Python Programming for AI
- ✅ Fundamentals of Generative AI
- ✅ AI-driven problem solving
- ✅ Practical implementation of AI concepts
- ✅ Industry-oriented learning and professional development
-This experience has strengthened my passion for Artificial Intelligence and Machine Learning while improving my technical and analytical skills.
-I extend my sincere gratitude to Srivensy Technologies Pvt. Ltd., APSCHE, my mentors, and my college Annamacharya Institute of Technology and Sciences, Rajampet for their continuous support and guidance.
-I am excited to continue learning, building impactful AI solutions, and contributing to innovative technologies._
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Algo University Internship
-<!-- TODO: add role title, duration, and 2-3 bullet points from LinkedIn -->
-- This journey challenged me to strengthen my skills in Data Structures & Algorithms, problem-solving, and technical interviews while learning from an amazing community.
-Receiving this fellowship kit and certificate is a reminder that consistent learning and hard work always pay off. I'm grateful to the mentors, the AlgoUniversity team, and everyone who supported me throughout this journey.
-Looking forward to applying these learnings, building impactful projects, and continuing to grow as a software developer. 🚀
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
+- Ranked 1st in B.Tech 2nd Year
+- NCC Certificate A & B
+- Softball — Zonal Level Sports Certificate
 
 <br/>
 
-## Achievements & Certifications
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/Cloud_Computing_(AWS)_&_DevOps-Jobprep-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Intro_to_Python-SimpleLearn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FullStack](https://img.shields.io/badge/Full_Stack_Web_Dev-Pantech.ai-38BDF8?style=for-the-badge&logo=web&logoColor=white)
-![AlgoUniversity](https://img.shields.io/badge/Certification-Algo_University-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white)
-![Capstone](https://img.shields.io/badge/Capstone_Project-Certified-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-</div>
-
-- 🏆 **1st Rank** — B.Tech 2nd Year
-- 🎖️ **NCC Certificate A & B**
-- 🥎 **Softball — Zonal Level** Sports Certificate
-- ☁️ Completed **AWS Cloud Computing & DevOps Internship** (Mar–May 2024)
-- 🎓 **Algo University Certification** — _[DSA python online jurgde projects]_
-- 📌 **Capstone Certification(s)** — _[genrative ai and python programming]_
-
-<br/>
-
-## Let's Connect
+## Contact
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/cheluri-navyasree-4502a9352">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/chelurinavyasree">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://navya-sree-cheluri-2006.bolt.host/">
-  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:chelurinavyasree@gmail.com">
-  <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=chelurinavyasree&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=chelurinavyasree&label=Profile%20Views&color=38BDF8&style=flat-square" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
