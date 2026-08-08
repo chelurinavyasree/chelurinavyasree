@@ -43,7 +43,7 @@ Final-year **Artificial Intelligence & Machine Learning** undergraduate with han
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech, AI & ML — CGPA 9.01 |
-| 📍 **Location** | Madanapalli, Andhra Pradesh |
+| 📍 **Location** | Rajampet, AITS,Andhra Pradesh |
 | 💼 **Status** | Fresher · Open to Work |
 | 🧩 **Practice** | HackerRank · CodeChef · LeetCode |
 
