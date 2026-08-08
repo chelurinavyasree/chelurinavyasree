@@ -182,7 +182,9 @@ Real-time focus detection system that tracks eye and head movement to flag distr
 
 ### 🎓 Algo University Internship
 <!-- TODO: add role title, duration, and 2-3 bullet points from LinkedIn -->
-- _[Add role details, duration, and key contributions]_
+- _[This journey challenged me to strengthen my skills in Data Structures & Algorithms, problem-solving, and technical interviews while learning from an amazing community.
+Receiving this fellowship kit and certificate is a reminder that consistent learning and hard work always pay off. I'm grateful to the mentors, the AlgoUniversity team, and everyone who supported me throughout this journey.
+Looking forward to applying these learnings, building impactful projects, and continuing to grow as a software developer. 🚀]_
 
 </td>
 <td width="50%" valign="top">
@@ -209,8 +211,8 @@ Real-time focus detection system that tracks eye and head movement to flag distr
 - 🎖️ **NCC Certificate A & B**
 - 🥎 **Softball — Zonal Level** Sports Certificate
 - ☁️ Completed **AWS Cloud Computing & DevOps Internship** (Mar–May 2024)
-- 🎓 **Algo University Certification** — _[Add exact certification title and date]_
-- 📌 **Capstone Certification(s)** — _[Add capstone project title, platform, and date]_
+- 🎓 **Algo University Certification** — _[DSA python online jurgde projects]_
+- 📌 **Capstone Certification(s)** — _[genrative ai and python programming]_
 
 <br/>
 
