@@ -173,7 +173,16 @@ Real-time focus detection system that tracks eye and head movement to flag distr
 ### 🤖 Generative AI Intern
 **Srivency Technologies**
 <!-- TODO: add duration and 2-3 bullet points on your GenAI work/tools here -->
-- _[Add role details, duration, tools used, and key contributions]_
+- _ my Summer Industry Internship in Generative AI at Srivensy Technologies Pvt. Ltd., conducted in association with the Andhra Pradesh State Council of Higher Education (APSCHE).
+During this internship, I completed the Python Programming for AI module and gained valuable exposure to:
+ ✅ Python Programming for AI
+ ✅ Fundamentals of Generative AI
+ ✅ AI-driven problem solving
+ ✅ Practical implementation of AI concepts
+ ✅ Industry-oriented learning and professional development
+This experience has strengthened my passion for Artificial Intelligence and Machine Learning while improving my technical and analytical skills.
+I extend my sincere gratitude to Srivensy Technologies Pvt. Ltd., APSCHE, my mentors, and my college Annamacharya Institute of Technology and Sciences, Rajampet for their continuous support and guidance.
+I am excited to continue learning, building impactful AI solutions, and contributing to innovative technologies._
 
 </td>
 </tr>
@@ -182,9 +191,9 @@ Real-time focus detection system that tracks eye and head movement to flag distr
 
 ### 🎓 Algo University Internship
 <!-- TODO: add role title, duration, and 2-3 bullet points from LinkedIn -->
-- _[This journey challenged me to strengthen my skills in Data Structures & Algorithms, problem-solving, and technical interviews while learning from an amazing community.
+- This journey challenged me to strengthen my skills in Data Structures & Algorithms, problem-solving, and technical interviews while learning from an amazing community.
 Receiving this fellowship kit and certificate is a reminder that consistent learning and hard work always pay off. I'm grateful to the mentors, the AlgoUniversity team, and everyone who supported me throughout this journey.
-Looking forward to applying these learnings, building impactful projects, and continuing to grow as a software developer. 🚀]_
+Looking forward to applying these learnings, building impactful projects, and continuing to grow as a software developer. 🚀
 
 </td>
 <td width="50%" valign="top">
